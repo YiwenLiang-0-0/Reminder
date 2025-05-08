@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Reminder"
-include(":mobile")
-include(":wear")
+rootProject.name = "WristReminder"
+include(":app")
+ 
